@@ -28,9 +28,6 @@ Regla nº9.
 
 Regla nº10.
 - En la clase flex deberemos de poner la pantalla flexible. También deberemos de alinear los elementos al centro. 
-    - display: flex;
-    - align-items: center;
-    - justify-content: center;
 
 Regla nº11.
 - En el footer deberá de tener un texto alineado (text-align) centrado. El color de fondo tendrá que ser de color negro. El color deberá de ser gris. Y el rellendo deberá de ser de 12px.
