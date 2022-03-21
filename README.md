@@ -9,10 +9,10 @@ Regla nº3.
 - Crearemos el selector header1 y debemos de poner el color blanco. No deberá de tener margen. El relleno tendrá que ser de 0 y 20%. Y tendremos que poner el tamaño de fuente a 37px.
 
 Regla nº4.
-- Tendremos que crear el selector id para main y tendrá que tener un 20px de relleno tanto a la derecho como a la izquierda.
+- Tendremos que crear el selector id para main y tendrá que tener un 20px de relleno tanto a la derecha como a la izquierda.
 
 Regla nº5.
-- Tambien deberemos de crear un selector llamado main p y tendrá que tener una fuente de 20px.
+- Tambien deberemos de crear un selector id llamado main p y tendrá que tener una fuente de 20px.
 
 Regla nº6.
 - Crearemos el selector que se tiene que llamar main h1 y tendrá que tener una fuente de 40px.
