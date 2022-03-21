@@ -36,7 +36,7 @@ Regla nº9.
 
 Regla nº10.
 - En el flex deberá de tener: 
-    · display: flex;
+    # display: flex;
     · align-items: center;
     · justify-content: center;
 
